@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551365957821.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "516EB18F",
+    "lastKnownWriteTime" : 1551369444,
+    "last_content_update" : 1551369444697,
+    "path" : "~/Dropbox/echarts/code.R",
+    "project_path" : "code.R",
+    "properties" : {
+        "cursorPosition" : "15,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
